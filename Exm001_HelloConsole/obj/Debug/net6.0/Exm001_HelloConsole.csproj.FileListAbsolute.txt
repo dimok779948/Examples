@@ -1,0 +1,15 @@
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\bin\Debug\net6.0\Exm001_HelloConsole.exe
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\bin\Debug\net6.0\Exm001_HelloConsole.deps.json
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\bin\Debug\net6.0\Exm001_HelloConsole.runtimeconfig.json
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\bin\Debug\net6.0\Exm001_HelloConsole.dll
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\bin\Debug\net6.0\Exm001_HelloConsole.pdb
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\obj\Debug\net6.0\Exm001_HelloConsole.csproj.AssemblyReference.cache
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\obj\Debug\net6.0\Exm001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\obj\Debug\net6.0\Exm001_HelloConsole.AssemblyInfoInputs.cache
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\obj\Debug\net6.0\Exm001_HelloConsole.AssemblyInfo.cs
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\obj\Debug\net6.0\Exm001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\obj\Debug\net6.0\Exm001_HelloConsole.dll
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\obj\Debug\net6.0\refint\Exm001_HelloConsole.dll
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\obj\Debug\net6.0\Exm001_HelloConsole.pdb
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\obj\Debug\net6.0\Exm001_HelloConsole.genruntimeconfig.cache
+D:\DimOK\GoogleDisk\GeekBrains\Языки программирования\Examples\Exm001_HelloConsole\obj\Debug\net6.0\ref\Exm001_HelloConsole.dll
